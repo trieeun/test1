@@ -1,1 +1,5 @@
 resume
+
+자격증 : adsp, sqld
+대외활동 : 교내 데이터분석 학회, 개발 동아리
+사용기술 : python, java
